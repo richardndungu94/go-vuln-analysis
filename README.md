@@ -9,7 +9,7 @@ Created this project to tests a vulnerable code on gitlab.
 SAST on gitlab helps in finding vulnerabilities in codes
 ## Gitlab repo
 
-- [ ] [Link](https://gitlab.com/my-projects7720029/go-vuln-analysis#go-vuln-analysis) files
+- [ ] [Link](https://gitlab.com/my-projects7720029/go-vuln-analysis#go-vuln-analysis)
 
 ```
 Link to gitlab
