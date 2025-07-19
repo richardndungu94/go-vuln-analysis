@@ -20,7 +20,7 @@ git remote add origin https://gitlab.com/my-projects7720029/go-vuln-analysis.git
 ## My linux codes for this project
 
 I used these codes for my project
-
+```
 git init -initializes git repos
 git config --global user.name "Richard"
 git config  --global user.email "@example.com"
@@ -43,7 +43,7 @@ git branch -d feature/badbad -delets a branch
 git merge fature/new-table -merges branches to main
 git push github main\n
 git remote add origin
-
+```
 
 ## Test and Deploy
 The project shows how you can test your codes befor deployment
