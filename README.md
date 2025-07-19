@@ -9,13 +9,12 @@ Created this project to tests a vulnerable code on gitlab.
 SAST on gitlab helps in finding vulnerabilities in codes
 ## Gitlab repo
 
-- [ ] [Create](https://gitlab.com/my-projects7720029/go-vuln-analysis#go-vuln-analysis) files
+- [ ] [Link](https://gitlab.com/my-projects7720029/go-vuln-analysis#go-vuln-analysis) files
 
 ```
-cd existing_repo
+Link to gitlab
 git remote add origin https://gitlab.com/my-projects7720029/go-vuln-analysis.git
-git branch -M main
-git push -uf origin main
+
 ```
 
 ## My linux codes for this project
