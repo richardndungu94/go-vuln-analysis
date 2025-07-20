@@ -1,6 +1,9 @@
-# go-vuln-analysis
+# go-vuln-analysis Project
 A Devsecops Project on SAST during CI/CD
 
+# Objective
+
+A simulation of CI/CD using avvulnerable code
 
 ## SAST on Gitlab CI/CD
 
@@ -46,8 +49,7 @@ git remote add origin
 ```
 
 ## Test and Deploy
-The project shows how you can test your codes befor deployment
-
+The project shows how you can test your codes before deployment ensuring safe codes at every iteration 
 ## Collaboration
 Teams can collaborate with Devsecops to ensure tests are conducted before delivery
 
